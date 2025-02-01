@@ -10,3 +10,4 @@ COPY docker_project /bin/docker_project
 CMD ["/bin/docker_project"]
 
 ENV PORT=8080
+
